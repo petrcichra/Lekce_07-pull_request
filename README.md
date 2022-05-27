@@ -3,8 +3,8 @@
 # úprava pro Pull request
 
 #jiná změna pro vytvoření pul reqeustu a konflikt
-uprava C
-uprava D
-První změna pro zkoušku konfliktu
-Druhá změna
-Třetí změna
+1.uprava C
+2.uprava D
+3.První změna pro zkoušku konfliktu
+4.Druhá změna
+5.Třetí změna
